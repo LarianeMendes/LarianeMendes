@@ -1,6 +1,6 @@
 # 🌼Hello, I'm Lariane!
 
-Atualmente sou estudante de graduação em Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (UFMG) e estou aprendendo a programar. 
+I'm currently studying Control and Automation Engineering at the Federal University of Minas Gerais (UFMG) and working on expanding my programming skills. I enjoy exploring new technologies and tackling interesting problems.
 
 ---
 
