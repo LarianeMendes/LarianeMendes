@@ -16,8 +16,7 @@ I'm currently studying Control and Automation Engineering at the Federal Univers
 ### 🍒 Featured Projects:
 
 Here are some of my key projects:
-- [**Project 1**](https://github.com/yourusername/project1) - Brief description of your project.
-- [**Project 2**](https://github.com/yourusername/project2) - Brief description of your project.
+- [**Sistema Bancário BliBank**](https://github.com/LarianeMendes/Projeto-de-POO) - Projeto para o trabalho da disciplina de Programação Orientada à Objetos, do curso de Engenharia de Controle e Automação da UFMG, 2024/01.
 
 ---
 
