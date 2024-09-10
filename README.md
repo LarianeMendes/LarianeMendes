@@ -21,10 +21,9 @@ Here are some of my key projects:
 
 ### 🌐 Connect with me:
 
-[![www.linkedin.com/in/lariane-gonçalves](https://img.shields.io/badge/LinkedIn-FCC8D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-FCC8D8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-FCC8D8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Spotify](https://img.shields.io/badge/Spotify-FCC8D8?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FCC8D8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lariane-gonçalves)
+[![Instagram](https://img.shields.io/badge/Instagram-FCC8D8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larianegm/)
+[![Spotify](https://img.shields.io/badge/Spotify-FCC8D8?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12161791543?si=97277e8402f24981)
 
 ---
 
