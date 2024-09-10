@@ -21,7 +21,7 @@ Here are some of my key projects:
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FCC8D8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lariane-gonçalves)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FCC8D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lariane-gon%C3%A7alves/)
 [![Instagram](https://img.shields.io/badge/Instagram-FCC8D8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larianegm/)
 [![Spotify](https://img.shields.io/badge/Spotify-FCC8D8?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12161791543?si=97277e8402f24981)
 
