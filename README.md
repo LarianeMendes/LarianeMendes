@@ -6,8 +6,10 @@ Atualmente sou estudante de graduação em Engenharia de Controle e Automação 
 
 ### 🛠️ Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -26,14 +28,4 @@ Here are some of my key projects:
 [![Spotify](https://img.shields.io/badge/Spotify-FCC8D8?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12161791543?si=97277e8402f24981)
 
 ---
-
-### 📊 GitHub Stats:
-
-
----
-
-### 🎵 Now Playing on Spotify:
-
-[![Spotify](https://novatorem-your-username.vercel.app/api/spotify)](https://open.spotify.com/user/your-profile)
-
 
