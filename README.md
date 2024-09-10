@@ -23,9 +23,9 @@ Here are some of my key projects:
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5A9B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lariane-gon%C3%A7alves/)
-[![Instagram](https://img.shields.io/badge/Instagram-F5A9B8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larianegm/)
-[![Spotify](https://img.shields.io/badge/Spotify-F5A9B8?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12161791543?si=97277e8402f24981)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lariane-gon%C3%A7alves/)
+[![Instagram](https://img.shields.io/badge/Instagram-F48FB1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larianegm/)
+[![Spotify](https://img.shields.io/badge/Spotify-F48FB1?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12161791543?si=97277e8402f24981)
 
 ---
 
